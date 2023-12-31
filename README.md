@@ -55,3 +55,12 @@ Para resolver a situação-problema apresentada, você deve buscar uma solução
 - [ ]  realizar o merge da branch feature1 com a branch main;
 - [ ]  resolver os conflitos apresentados.
 - [ ]  Entregar atividade :tada: :smile:
+
+### Tecnologias
+---
+#### IDLE 
+- Visual Studio Code
+
+Obs: O vsCode não possui suporte de visualização MarkDown para emoji e Checkbox. Então foi necessário instalar as extensões:
+- Markdown Emoji
+- Markdown Checkboxes
