@@ -29,10 +29,10 @@ Para resolver a situação-problema apresentada, você deve buscar uma solução
 </BODY>
 </HTML>
 ```
-- [ ]  publicar seu arquivo na branch main;
-- [ ]  criar uma nova branch, chamada feature1;
-- [ ]  na branch feature1, publicar o mesmo arquivo;
-- [ ]  realizar seguinte alteração na linha h1 do arquivo da branch main:
+- [x]  publicar seu arquivo na branch main;
+- [x]  criar uma nova branch, chamada feature1;
+- [x]  na branch feature1, publicar o mesmo arquivo;
+- [x]  realizar seguinte alteração na linha h1 do arquivo da branch main:
 ```
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
@@ -43,7 +43,7 @@ Para resolver a situação-problema apresentada, você deve buscar uma solução
 ```
  
 
-- [ ]  realizar seguinte alteração na linha h1 do arquivo da branch feature1:
+- [x]  realizar seguinte alteração na linha h1 do arquivo da branch feature1:
 ```
  <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
