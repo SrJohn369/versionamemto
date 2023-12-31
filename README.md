@@ -9,7 +9,7 @@ Para resolver a situação-problema apresentada, você deve buscar uma solução
 ### Lista de Atribuições para conclusão da atividade :white_check_mark:
 ---
 - [x]  criar um repositório on-line 
-- [ ]  criar um arquivo index.txt no repositório remoto para simular uma alteração feita por outro programador, elencando os principais comandos na sequência indicada a seguir, utilizados para gerenciar o versionamento de seu código e publicar no repositório remoto:
+- [x]  criar um arquivo index.txt no repositório remoto para simular uma alteração feita por outro programador, elencando os principais comandos na sequência indicada a seguir, utilizados para gerenciar o versionamento de seu código e publicar no repositório remoto:
 ```
     git status
     git add
@@ -20,7 +20,7 @@ Para resolver a situação-problema apresentada, você deve buscar uma solução
     git pull
     git remote
 ```
-- [ ]  criar um arquivo index.txt no repositório local, copiar e colar as linhas de código indicadas abaixo:
+- [x]  criar um arquivo index.txt no repositório local, copiar e colar as linhas de código indicadas abaixo:
 ```
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
