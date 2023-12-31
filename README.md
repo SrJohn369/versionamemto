@@ -52,9 +52,9 @@ Para resolver a situação-problema apresentada, você deve buscar uma solução
 </BODY>
 </HTML>
 ```
-- [ ]  realizar o merge da branch feature1 com a branch main;
-- [ ]  resolver os conflitos apresentados.
-- [ ]  Entregar atividade :tada: :smile:
+- [x]  realizar o merge da branch feature1 com a branch main;
+- [x]  resolver os conflitos apresentados.
+- [x]  Entregar atividade :tada: :smile:
 
 ### Tecnologias
 ---
