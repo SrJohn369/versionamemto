@@ -43,7 +43,7 @@ Para resolver a situação-problema apresentada, você deve buscar uma solução
 ```
  
 
-- [ ]  realizar seguinte alteração na linha h1 do arquivo da branch feature1:
+- [x]  realizar seguinte alteração na linha h1 do arquivo da branch feature1:
 ```
  <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
